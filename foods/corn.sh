@@ -1,2 +1,2 @@
-echo "red, crunchy, juicy... grows on trees"
+echo "green outside, yellow inside... sweet and crunchy."
 echo
